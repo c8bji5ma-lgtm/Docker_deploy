@@ -1,0 +1,15 @@
+/.bundle
+/log/*
+!/log/.keep
+/tmp/*
+!/tmp/.keep
+!/tmp/pids/
+/tmp/pids/*
+!/tmp/pids/.keep
+/public/assets
+/vendor/bundle
+/.env
+/.env.*
+!/.env.example
+/config/master.key
+/config/credentials/*.key
